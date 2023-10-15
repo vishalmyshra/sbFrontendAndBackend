@@ -1,0 +1,5 @@
+com\random\dao\Crud.class
+com\random\RandomnumbergeneratorApplication.class
+com\random\ServletInitializer.class
+com\random\controller\MainController.class
+com\random\entity\UserLoginCredential.class
